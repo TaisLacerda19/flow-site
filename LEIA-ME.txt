@@ -1,0 +1,23 @@
+FLOW · LANDING PAGE (PROJETO CONCEITUAL)
+
+COMO ABRIR
+Extraia o ZIP e dê dois cliques em index.html. Funciona sem internet e sem instalar nada.
+Mantenha as pastas imagens e fontes ao lado do index.html.
+
+O QUE É DEMONSTRAÇÃO
+- Preços: valores ilustrativos do briefing (identificados na página).
+- Escolha de sabor e formato: demonstrativa; o botão mostra a escolha e avisa que nenhum pedido foi feito. Não há checkout nem envio de dados.
+- Perguntas sobre cafeína, açúcar e se é vegana: "a definir conforme a formulação", como na copy.
+- Alegações de Produto (Energia, Foco): da copy; substituir pela formulação final antes de um lançamento real.
+- Sem redes sociais: os perfis ainda não existem.
+
+ANTES DE PUBLICAR DE VERDADE
+Definir destino de compra, fórmula, redes sociais e domínio.
+
+PUBLICAR
+A pasta inteira é o site: index.html na raiz, com as pastas imagens e fontes ao lado.
+Serve em qualquer hospedagem de site estático, sem configuração e sem servidor.
+Depois de ter o domínio, vale incluir a imagem de compartilhamento (og:image) com o endereço completo.
+
+FONTES
+Barlow Semi Condensed e Google Sans Flex, licença SIL Open Font License (arquivos OFL na pasta fontes).
